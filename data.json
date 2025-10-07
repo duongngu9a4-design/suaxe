@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "ten": "coibeo",
+      "email": "123@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "xe": [
+    {
+      "user": "123@gmail.com",
+      "ten_xe": "3",
+      "model": "4",
+      "nam_sx": "2000",
+      "bien_so": "2",
+      "bo_phan_sua": "2",
+      "chi_phi": "2000",
+      "ngay_sua": "07/10/2025"
+    }
+  ],
+  "baoduong": [
+    {
+      "user": "123@gmail.com",
+      "bien_so": "1",
+      "noi_dung": "hỏng phanh",
+      "ngay": "07/10/2025"
+    }
+  ]
+}
